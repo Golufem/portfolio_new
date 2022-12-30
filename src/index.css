@@ -56,6 +56,7 @@ h1{
 }
 section{
   margin-top:8rem ;
+  padding: 6rem;
 }
 section h2, section h5{
   text-align: center;
@@ -113,6 +114,8 @@ img{
   }
   section{
     margin-top: 6rem;
+    
+
   }
 }
 
