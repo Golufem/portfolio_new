@@ -58,7 +58,8 @@ h1{
   font-size: 2.5rem;
 }
 section{
-  margin-top:8rem ;
+ /* margin-top: 8rem; */
+  margin:8rem 4rem ;
   
 }
 section h2, section h5{
