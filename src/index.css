@@ -4,7 +4,8 @@
   margin: 0;
   padding: 0;
   box-sizing: border-box;
-  border: none;
+  border: 0;
+  outline: 0;
   text-decoration: none;
   list-style: none;
 }
@@ -35,7 +36,9 @@ body {
   background-color: var(--color-bg);
   color: (--color-white);
   line-height: 1.7;
-  background-image: url(./assests/texture2.jpg);
+  background-image: url(./assests/purple\ back.jpg);
+  background-repeat: no-repeat;
+ background-size: cover;
   
 }
 
