@@ -7,7 +7,7 @@ import "./about.css"
 
 const About = () => {
   return (
-    <section id='about'>
+<section id='about'>
     <h5>Get To Know</h5>
     <h2>About Me</h2>
 
@@ -39,7 +39,7 @@ const About = () => {
             </div>
             <p> I am a front end developer who is more profieciency in creating an attraactive, flexible and well functioning </p>
             <a href='#contact' className='btn btn-primary'>Let's Talk</a>
-            </div>
+        </div>
     </div>
 
     </section>

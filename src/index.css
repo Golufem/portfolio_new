@@ -60,6 +60,7 @@ h1{
 section{
  /* margin-top: 8rem; */
   margin:8rem 4rem ;
+  align-items: center;
   
 }
 section h2, section h5{
