@@ -11,7 +11,8 @@
 
 }
 .about__me{
-    width: 100%;
+    width: 30%;
+    margin-bottom: 4rem;
     /* aspect-ratio: 1/1; */
     border-radius: 2rem;
     background: linear-gradient(
@@ -39,15 +40,21 @@
 
 .about__cards{
     display: flex;
-    justify-content: space-between;
+    flex-wrap: wrap;
+    justify-content: space-around;
   
     /* grid-template-columns: repeat(3, 1fr); */
     gap: 1.5rem;
 }
 .about__card {
     background: var(--color-bg-variant);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
     border: 1px solid transparent;
     border-radius: 1rem;
+    width: 25%;
     padding: 2rem;
     text-align: center;
     transition: var(--transistion);
@@ -73,7 +80,7 @@
 }
 
 .about__content p{
-     /* margin: 2rem 0 2.5rem; */
+     padding:1rem 5rem 0.5rem;
      color: var(--color-light);
 }
 
