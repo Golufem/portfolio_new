@@ -1,17 +1,21 @@
 {
   "files": {
-    "main.css": "/portfolio_new/static/css/main.9f7d2628.css",
-    "main.js": "/portfolio_new/static/js/main.bb4a1192.js",
+    "main.css": "/portfolio_new/static/css/main.ba9814e6.css",
+    "main.js": "/portfolio_new/static/js/main.979d2527.js",
     "static/js/787.b290d0cd.chunk.js": "/portfolio_new/static/js/787.b290d0cd.chunk.js",
     "static/media/CV.docx": "/portfolio_new/static/media/CV.233e5f892ec38ea506f7.docx",
+    "static/media/naism site.PNG": "/portfolio_new/static/media/naism site.6ef3f2fd67c9d7bc1494.PNG",
     "static/media/Femi.jpg": "/portfolio_new/static/media/Femi.caaa77779fcc35348c24.jpg",
+    "static/media/inec site.PNG": "/portfolio_new/static/media/inec site.3f6ddda798e35d0eec55.PNG",
+    "static/media/foodapp.PNG": "/portfolio_new/static/media/foodapp.2eb23835360c176d2df6.PNG",
+    "static/media/login app.PNG": "/portfolio_new/static/media/login app.59b3cb750d28c025af18.PNG",
     "index.html": "/portfolio_new/index.html",
-    "main.9f7d2628.css.map": "/portfolio_new/static/css/main.9f7d2628.css.map",
-    "main.bb4a1192.js.map": "/portfolio_new/static/js/main.bb4a1192.js.map",
+    "main.ba9814e6.css.map": "/portfolio_new/static/css/main.ba9814e6.css.map",
+    "main.979d2527.js.map": "/portfolio_new/static/js/main.979d2527.js.map",
     "787.b290d0cd.chunk.js.map": "/portfolio_new/static/js/787.b290d0cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.9f7d2628.css",
-    "static/js/main.bb4a1192.js"
+    "static/css/main.ba9814e6.css",
+    "static/js/main.979d2527.js"
   ]
 }
