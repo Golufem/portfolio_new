@@ -39,21 +39,21 @@ const Contact = () => {
                     <MdOutlineEmail className='contactOption__icon'/>
                     <h4>Email</h4>
                     <h5>oluwafemigbadero@gmail.com</h5>
-                    <a href='mailto:oluwafemigbadero@gmail.com' target= "_blank">send a message</a>
+                    <a href='mailto:oluwafemigbadero@gmail.com' target= "_blank">Send a message</a>
                 </article>
 
                 <article className='contact__option'>
                     <BiMessageRoundedDots className='contactOption__icon'/>
                     <h4>Messenger</h4>
                     <h5>Oluwafemigbadero</h5>
-                    <a href='https://m.me/oluwafemi.gbadero.9' target= "_blank">send a message</a>
+                    <a href='https://m.me/oluwafemi.gbadero.9' target= "_blank">Send a message</a>
                 </article>
 
                 <article className='contact__option'>
                     <RiWhatsappFill className='contactOption__icon'/>
                     <h4>Whatsapp</h4>
                     <h5>+2349068055248</h5>
-                    <a href='https://wa.me/09068055248' target= "_blank">send a message</a>
+                    <a href='https://wa.link/dx3w71' target= "_blank">Send a message</a>
                 </article>
             </div>
 
