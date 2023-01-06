@@ -3,7 +3,7 @@ import "./nav.css"
 import {AiOutlineHome} from 'react-icons/ai'
 import {AiOutlineUser} from "react-icons/ai";
 import {BiBookContent} from "react-icons/bi";
-import {RiServiceFill} from "react-icons/ri";
+import {AiFillFolderOpen} from "react-icons/ai";
 import {AiOutlineMessage} from "react-icons/ai"
 
 const Nav = () => {
@@ -18,7 +18,7 @@ const Nav = () => {
     setNavActive('#experience')
  );
  const changeActiveClassservices= ()=>(
-    setNavActive('#services')
+    setNavActive('#portfolio')
  );
  const changeActiveClasscontact= ()=>(
     setNavActive('#contact')
@@ -30,7 +30,7 @@ const Nav = () => {
       <a href='#' onClick={changeActiveClasshome} className={navActive === '#'? 'active' : ""}><AiOutlineHome/></a>
       <a href = '#about'  onClick={changeActiveClassabout} className={navActive === '#about'? 'active' : ""}><AiOutlineUser/></a>
       <a href = '#experience' onClick={changeActiveClassexperience} className={navActive === '#experience'? 'active' : ""}><BiBookContent/></a>
-      <a href = '#services' onClick={changeActiveClassservices} className={navActive === '#services'? 'active' : ""}><RiServiceFill/></a>
+      <a href = '#portfolio' onClick={changeActiveClassservices} className={navActive === '#portfolio'? 'active' : ""}><AiFillFolderOpen/></a>
       <a href = '#contact' onClick={changeActiveClasscontact} className={navActive === '#contact'? 'active' : ""}><AiOutlineMessage/></a>
     </nav>
   );
